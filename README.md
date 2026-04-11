@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rafsan0670@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1j20IstzD2eHne3cuiP6Npsz1xQC-RJ7s/edit?usp=sharing&ouid=102503716529705387346&rtpof=true&sd=true](https://docs.google.com/document/d/1j20IstzD2eHne3cuiP6Npsz1xQC-RJ7s/edit?usp=sharing&ouid=102503716529705387346&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1j20IstzD2eHne3cuiP6Npsz1xQC-RJ7s/edit?usp=sharing&ouid=102503716529705387346&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
