@@ -18,7 +18,7 @@ I'm an aspiring full-stack developer with a passion for competitive programming.
 - 🔭 Currently building **[Sun Cart](https://github.com/raf0670/sun-cart)** — a summer sale e-commerce website
 - 🌱 Deepening my knowledge in **React.js** and **Next.js**
 - 💻 All my projects live at **[github.com/raf0670](https://github.com/raf0670/)**
-- 📄 Check out my **[Resume](https://docs.google.com/document/d/1j20IstzD2eHne3cuiP6Npsz1xQC-RJ7s/edit?usp=sharing&ouid=102503716529705387346&rtpof=true&sd=true)**
+- 📄 Check out my **[Resume](https://docs.google.com/document/d/1nXOYRXVYPx10Cxd-9DcG3DVwCHtV1f62/edit?usp=sharing&ouid=102503716529705387346&rtpof=true&sd=true)**
 - 📬 Reach me at **rafsan0670@gmail.com**
 
 ---
