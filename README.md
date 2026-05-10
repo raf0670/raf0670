@@ -9,6 +9,10 @@
 
 </div>
 
+<div align="center">
+  <img src="Gemini_Generated_Image_dj6dludj6dludj6d.png" style="border-radius: 50%;" alt="Rafsan Rahman">
+</div>
+
 ---
 
 ## About Me
