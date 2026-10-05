@@ -9,18 +9,14 @@
 
 </div>
 
-<div align="center">
-  <img src="Gemini_Generated_Image_dj6dludj6dludj6d.png" style="border-radius: 50%;" alt="Rafsan Rahman">
-</div>
-
 ---
 
 ## About Me
 
 I'm an aspiring full-stack developer with a passion for competitive programming. I love building practical tools and solving algorithmic challenges — always learning, always shipping.
 
-- 🔭 Currently building **[Drive Fleet](https://github.com/raf0670/drive-fleet-client)** — a car-rental service platform
-- 🌱 Deepening my knowledge in **React.js** and **Next.js**
+- 🔭 Currently building **[Food Folio](https://food-folio-client.vercel.app/)** — a food review social platform
+- 🌱 Deepening my knowledge in **Full Stack Development**
 - 💻 All my projects live at **[github.com/raf0670](https://github.com/raf0670/)**
 - 📄 Check out my **[Resume](https://docs.google.com/document/d/1nXOYRXVYPx10Cxd-9DcG3DVwCHtV1f62/edit?usp=sharing&ouid=102503716529705387346&rtpof=true&sd=true)**
 - 📬 Reach me at **rafsan0670@gmail.com**
@@ -28,8 +24,6 @@ I'm an aspiring full-stack developer with a passion for competitive programming.
 ---
 
 ## Tech Stack
-
-**Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -45,6 +39,16 @@ I'm an aspiring full-stack developer with a passion for competitive programming.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
 **Tools & Design**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -52,7 +56,7 @@ I'm an aspiring full-stack developer with a passion for competitive programming.
 
 **Currently Learning**
 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
